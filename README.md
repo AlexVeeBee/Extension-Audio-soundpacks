@@ -1,7 +1,7 @@
 # Extension audio / soundpack
 
 ## Info
-Wodking directory for the soundpacks are `public/assets/ui-packs`
+Working directory for the soundpacks are `public/assets/ui-packs`
 
 # Adding a Soundpack
 1. Navigate to the `public/assets` folder and create a directory named `ui-packs` if it doesn't already exist.
